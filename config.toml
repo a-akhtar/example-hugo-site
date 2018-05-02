@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "your_site_url_address"
+baseurl = "https://a-akhtar.github.io/example-hugo-site/"
 languageCode = "en"
 title = "Adeel's Blog"
 theme = "cactus"

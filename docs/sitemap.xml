@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>your_site_url_address/posts/first-post/</loc>
+    <loc>https://a-akhtar.github.io/example-hugo-site/posts/first-post/</loc>
     <lastmod>2018-05-02T08:56:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/about/</loc>
+    <loc>https://a-akhtar.github.io/example-hugo-site/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/</loc>
+    <loc>https://a-akhtar.github.io/example-hugo-site/</loc>
     <lastmod>2018-05-02T08:56:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>your_site_url_address/categories/</loc>
+    <loc>https://a-akhtar.github.io/example-hugo-site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>your_site_url_address/posts/</loc>
+    <loc>https://a-akhtar.github.io/example-hugo-site/posts/</loc>
     <lastmod>2018-05-02T08:56:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>your_site_url_address/tags/</loc>
+    <loc>https://a-akhtar.github.io/example-hugo-site/tags/</loc>
     <priority>0</priority>
   </url>
   
