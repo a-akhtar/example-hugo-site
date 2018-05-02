@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Adeel&#39;s Blog</title>
+    <link>your_site_url_address/posts/</link>
+    <description>Recent content in Posts on Adeel&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 May 2018 08:56:21 -0400</lastBuildDate>
+    
+	<atom:link href="your_site_url_address/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>your_site_url_address/posts/first-post/</link>
+      <pubDate>Wed, 02 May 2018 08:56:21 -0400</pubDate>
+      
+      <guid>your_site_url_address/posts/first-post/</guid>
+      <description>Hello Welcome to my new blog. Please come back at some other time when the website is ready.</description>
+    </item>
+    
+  </channel>
+</rss>
